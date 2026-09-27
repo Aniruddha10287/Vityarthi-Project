@@ -1,0 +1,5 @@
+Python >= 3.8
+
+# Dependencies:
+# No external libraries required.
+# Runs entirely using the standard Python library.
